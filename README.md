@@ -26,7 +26,7 @@ This repository contains end-to-end Machine Learning projects focused on geoscie
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
 | 01 | Reservoir Porosity Prediction | Random Forest or XGBoost regression on well log data | ✅ Completed |
-| 02 | Well Log Facies Classification | Multi-class ML classification of lithofacies | 📋 Planned |
+| 02 | Well Log Facies Classification | Multi-class ML classification of lithofacies | ✅ Completed  |
 | 03 | Geothermal Resource Assessment | Temperature gradient analysis & ML screening | 📋 Planned |
 
 ---
